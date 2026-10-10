@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="./assets/sub-logo-compact.png" width="180" alt="Logo reduzida do SUB" />
+  <img src="./assets/sub-logo.png" width="180" alt="Logo do SUB" />
 
   <h1>SUB</h1>
   <p><strong>Sistema Único Bibliotecário</strong></p>
