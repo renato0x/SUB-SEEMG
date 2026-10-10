@@ -15,7 +15,7 @@
 
 ## Sobre o projeto
 
-O SUB é a evolução do sistema de gestão desenvolvido para a Biblioteca Gastão Valle. Atualmente, a plataforma está sendo refatorada pela equipe original para atender às escolas da rede estadual de Minas Gerais.
+O SUB é a evolução do sistema de gestão desenvolvido para a Biblioteca Gastão Valle. Atualmente, a plataforma está sendo refatorada pela equipe original para atender toda rede estadual de Minas Gerais.
 
 ## Reconhecimento institucional
 
