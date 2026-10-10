@@ -13,9 +13,22 @@
 
 ---
 
-## Sobre o projeto
+> [!IMPORTANT]
+> **Registro institucional**
+>
+> Este repositório possui caráter exclusivamente informacional e histórico. O SUB é um sistema de propriedade do Estado de Minas Gerais, sob responsabilidade institucional da Secretaria de Estado de Educação de Minas Gerais (SEE/MG).
+>
+> O código-fonte, a documentação interna e os dados operacionais não são disponibilizados publicamente. Este repositório não representa o ambiente oficial de desenvolvimento do sistema.
 
-O SUB é a evolução do sistema de gestão desenvolvido para a Biblioteca Gastão Valle. Atualmente, a plataforma está sendo refatorada pela equipe original para atender toda rede estadual de Minas Gerais.
+## Sobre o SUB
+
+O SUB é a refatoração do sistema de gestão desenvolvido para a Biblioteca Gastão Valle. Após a apresentação do projeto original ao Governo de Minas Gerais, a equipe foi convidada a desenvolver uma nova versão para atender toda a rede estadual de ensino.
+
+## Participação técnica
+
+Atuei no desenvolvimento full stack do sistema original, com foco nos fluxos de empréstimo e reserva, banco de dados, identificação por código de barras, automações e infraestrutura local.
+
+Atualmente, participo da refatoração do SUB para a rede estadual de ensino.
 
 ## Reconhecimento institucional
 
@@ -26,16 +39,10 @@ O SUB é a evolução do sistema de gestão desenvolvido para a Biblioteca Gast�
     </td>
     <td>
       <strong>Secretaria de Estado de Educação de Minas Gerais</strong><br />
-      Projeto em desenvolvimento como iniciativa da SEE/MG.<br /><br />
+      O sistema original foi reconhecido e divulgado oficialmente pelo Governo de Minas Gerais.<br /><br />
       <a href="https://www.agenciaminas.mg.gov.br/noticia/estudantes-de-escola-estadual-desenvolvem-sistema-para-modernizar-biblioteca"><strong>Matéria oficial ↗</strong></a>
+      &nbsp;·&nbsp;
+      <a href="https://www.gastaovalle.com/pages/equipe-dev.html">Equipe do projeto</a>
     </td>
   </tr>
 </table>
-
-## Desenvolvimento
-
-O projeto está em fase de refatoração. Este repositório reúne sua apresentação pública; o código-fonte não está disponível neste momento.
-
-<p align="center">
-  <a href="https://www.gastaovalle.com/pages/equipe-dev.html">Equipe do projeto</a>
-</p>
