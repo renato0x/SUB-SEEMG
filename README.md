@@ -22,24 +22,28 @@ A minha trajetória no SUB começou com o sistema desenvolvido para a Biblioteca
 
 <table>
   <tr>
-    <td width="64" align="center"><strong>01</strong></td>
-    <td><strong>Origem</strong><br />Biblioteca Gastão Valle.</td>
-    <td width="50%" rowspan="3" align="center" valign="middle">
+    <td width="50%" align="center" valign="top">
+      <strong>Projeto original</strong><br />
+      <sub>Sistema da Biblioteca Gastão Valle</sub><br /><br />
+      <a href="https://github.com/Ithaloluzdepanela/biblioteca-gastao/commits/main?author=renato0x">
+        <img height="165" src="https://github-stats-extended.vercel.app/api?username=renato0x&repo=Ithaloluzdepanela%2Fbiblioteca-gastao&show_icons=true&include_all_commits=true&count_private=false&hide_rank=true&hide=stars,prs,issues,contribs&bg_color=0D1117&title_color=F0F6FC&text_color=8B949E&icon_color=58A6FF&border_color=30363D&custom_title=Biblioteca+Gast%C3%A3o+Valle" alt="Total de commits públicos de Renato no projeto original da Biblioteca Gastão Valle" />
+      </a><br />
+      <sub><a href="https://github.com/Ithaloluzdepanela/biblioteca-gastao/commits/main?author=renato0x">Ver histórico de commits ↗</a></sub>
+    </td>
+    <td width="50%" align="center" valign="top">
+      <strong>Evolução atual</strong><br />
+      <sub>Sistema Único Bibliotecário — SUB</sub><br /><br />
       <a href="https://github.com/LouasDev/SistemaBiblioteca/commits/main?author=renato0x">
         <img height="165" src="https://github-stats-extended.vercel.app/api?username=renato0x&repo=LouasDev%2FSistemaBiblioteca&show_icons=true&include_all_commits=true&count_private=false&hide_rank=true&hide=stars,prs,issues,contribs&bg_color=0D1117&title_color=F0F6FC&text_color=8B949E&icon_color=58A6FF&border_color=30363D&custom_title=Participa%C3%A7%C3%A3o+no+SUB" alt="Total de commits públicos de Renato no repositório do SUB" />
       </a><br />
-      <sub>Indicador dinâmico filtrado pelo repositório de desenvolvimento. Caso não carregue, consulte o <a href="https://github.com/LouasDev/SistemaBiblioteca/commits/main?author=renato0x">histórico de commits</a>.</sub>
+      <sub><a href="https://github.com/LouasDev/SistemaBiblioteca/commits/main?author=renato0x">Ver histórico de commits ↗</a></sub>
     </td>
   </tr>
-  <tr>
-    <td width="64" align="center"><strong>02</strong></td>
-    <td><strong>Reconhecimento</strong><br />Divulgação oficial do projeto original.</td>
-  </tr>
-  <tr>
-    <td width="64" align="center"><strong>03</strong></td>
-    <td><strong>Continuidade</strong><br />Evolução colaborativa para a rede estadual.</td>
-  </tr>
 </table>
+
+<div align="center">
+  <sub>Indicadores dinâmicos, filtrados por repositório e atualizados automaticamente.</sub>
+</div>
 
 ## O SUB
 
