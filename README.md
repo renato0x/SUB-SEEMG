@@ -20,29 +20,29 @@
 
 A minha trajetória no SUB começou com o sistema desenvolvido para a Biblioteca Gastão Valle. Depois do reconhecimento público do projeto original, continuo participando da sua evolução para a rede estadual de ensino.
 
-<table>
+<table width="100%">
   <tr>
     <td width="50%" align="center" valign="top">
-      <strong>Projeto original</strong><br />
-      <sub>Sistema da Biblioteca Gastão Valle</sub><br /><br />
+      <strong>Biblioteca Gastão Valle</strong><br />
+      <sub>Projeto original</sub><br /><br />
       <a href="https://github.com/Ithaloluzdepanela/biblioteca-gastao/commits/main?author=renato0x">
-        <img height="165" src="https://github-stats-extended.vercel.app/api?username=renato0x&repo=Ithaloluzdepanela%2Fbiblioteca-gastao&show_icons=true&include_all_commits=true&count_private=false&hide_rank=true&hide=stars,prs,issues,contribs&bg_color=0D1117&title_color=F0F6FC&text_color=8B949E&icon_color=58A6FF&border_color=30363D&custom_title=Biblioteca+Gast%C3%A3o+Valle" alt="Total de commits públicos de Renato no projeto original da Biblioteca Gastão Valle" />
+        <img height="200" src="https://github-stats-extended.vercel.app/api?username=renato0x&repo=Ithaloluzdepanela%2Fbiblioteca-gastao&show_icons=true&include_all_commits=true&count_private=false&hide_rank=true&hide=stars,prs,issues,contribs&bg_color=0D1117&title_color=F0F6FC&text_color=8B949E&icon_color=58A6FF&border_color=30363D&custom_title=Biblioteca+Gast%C3%A3o+Valle" alt="Total de commits públicos de Renato no projeto original da Biblioteca Gastão Valle" />
       </a><br />
-      <sub><a href="https://github.com/Ithaloluzdepanela/biblioteca-gastao/commits/main?author=renato0x">Ver histórico de commits ↗</a></sub>
+      <sub><a href="https://github.com/Ithaloluzdepanela/biblioteca-gastao/commits/main?author=renato0x">Histórico de commits ↗</a></sub>
     </td>
     <td width="50%" align="center" valign="top">
-      <strong>Evolução atual</strong><br />
-      <sub>Sistema Único Bibliotecário — SUB</sub><br /><br />
+      <strong>SUB</strong><br />
+      <sub>Evolução atual para a rede estadual</sub><br /><br />
       <a href="https://github.com/LouasDev/SistemaBiblioteca/commits/main?author=renato0x">
-        <img height="165" src="https://github-stats-extended.vercel.app/api?username=renato0x&repo=LouasDev%2FSistemaBiblioteca&show_icons=true&include_all_commits=true&count_private=false&hide_rank=true&hide=stars,prs,issues,contribs&bg_color=0D1117&title_color=F0F6FC&text_color=8B949E&icon_color=58A6FF&border_color=30363D&custom_title=Participa%C3%A7%C3%A3o+no+SUB" alt="Total de commits públicos de Renato no repositório do SUB" />
+        <img height="200" src="https://github-stats-extended.vercel.app/api?username=renato0x&repo=LouasDev%2FSistemaBiblioteca&show_icons=true&include_all_commits=true&count_private=false&hide_rank=true&hide=stars,prs,issues,contribs&bg_color=0D1117&title_color=F0F6FC&text_color=8B949E&icon_color=58A6FF&border_color=30363D&custom_title=Participa%C3%A7%C3%A3o+no+SUB" alt="Total de commits públicos de Renato no repositório do SUB" />
       </a><br />
-      <sub><a href="https://github.com/LouasDev/SistemaBiblioteca/commits/main?author=renato0x">Ver histórico de commits ↗</a></sub>
+      <sub><a href="https://github.com/LouasDev/SistemaBiblioteca/commits/main?author=renato0x">Histórico de commits ↗</a></sub>
     </td>
   </tr>
 </table>
 
 <div align="center">
-  <sub>Indicadores dinâmicos, filtrados por repositório e atualizados automaticamente.</sub>
+  <sub>Métricas públicas, filtradas por repositório e atualizadas automaticamente.</sub>
 </div>
 
 ## O SUB
