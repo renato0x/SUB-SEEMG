@@ -11,6 +11,10 @@
 
 </div>
 
+<p align="center">
+  <img src="./assets/participacao-renato.svg" width="980" alt="Card de participação de Renato Monteiro no desenvolvimento do SUB." />
+</p>
+
 ---
 
 > [!IMPORTANT]
@@ -24,11 +28,20 @@
 
 O SUB é a refatoração do sistema de gestão desenvolvido para a Biblioteca Gastão Valle. Após a apresentação do projeto original ao Governo de Minas Gerais, a equipe foi convidada a desenvolver uma nova versão para atender toda a rede estadual de ensino.
 
-## Participação técnica
+## Participação
 
-Atuei no desenvolvimento full stack do sistema original, com foco nos fluxos de empréstimo e reserva, banco de dados, identificação por código de barras, automações e infraestrutura local.
+Participo do desenvolvimento e da evolução contínua do SUB em um trabalho colaborativo. Este repositório registra essa trajetória de forma pública, preservando os limites institucionais do projeto.
 
-Atualmente, participo da refatoração do SUB para a rede estadual de ensino.
+## Tecnologias
+
+<div align="center">
+
+![C#](https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=csharp&logoColor=white)
+![.NET Framework](https://img.shields.io/badge/.NET_Framework-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![Windows Forms](https://img.shields.io/badge/Windows_Forms-0078D4?style=flat-square&logo=windows&logoColor=white)
+![SQL Server Compact](https://img.shields.io/badge/SQL_Server_Compact-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
+
+</div>
 
 ## Reconhecimento institucional
 
