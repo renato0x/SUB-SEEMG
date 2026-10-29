@@ -23,22 +23,12 @@ A minha trajetória no SUB começou com o sistema desenvolvido para a Biblioteca
 <table>
   <tr>
     <td width="50%" valign="top">
-
-<table>
-  <tr>
-    <td width="64" align="center"><strong>01</strong></td>
-    <td><strong>Origem</strong><br />Biblioteca Gastão Valle.</td>
-  </tr>
-  <tr>
-    <td width="64" align="center"><strong>02</strong></td>
-    <td><strong>Reconhecimento</strong><br />Divulgação oficial do projeto original.</td>
-  </tr>
-  <tr>
-    <td width="64" align="center"><strong>03</strong></td>
-    <td><strong>Continuidade</strong><br />Evolução colaborativa para a rede estadual.</td>
-  </tr>
-</table>
-
+      <strong>01 · Origem</strong><br />
+      Biblioteca Gastão Valle.<br /><br />
+      <strong>02 · Reconhecimento</strong><br />
+      Divulgação oficial do projeto original.<br /><br />
+      <strong>03 · Continuidade</strong><br />
+      Evolução colaborativa para a rede estadual.
     </td>
     <td width="50%" align="center" valign="top">
       <a href="https://github.com/LouasDev/SistemaBiblioteca/commits/main?author=renato0x">
