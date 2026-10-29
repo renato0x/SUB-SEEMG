@@ -24,6 +24,8 @@
 
 O SUB é a refatoração do sistema de gestão desenvolvido para a Biblioteca Gastão Valle. Após a apresentação do projeto original ao Governo de Minas Gerais, a equipe foi convidada a desenvolver uma nova versão para atender toda a rede estadual de ensino.
 
+A proposta é reunir em uma única aplicação a rotina de uma biblioteca escolar: organização do acervo, pessoas e turmas, circulação de livros, relatórios e configurações institucionais.
+
 ## Minha participação
 
 Participo do desenvolvimento e da evolução contínua do SUB em um trabalho colaborativo. Este repositório preserva essa trajetória de forma pública e objetiva, sem expor conteúdos internos do projeto.
@@ -54,6 +56,16 @@ Participo do desenvolvimento e da evolução contínua do SUB em um trabalho col
   </tr>
 </table>
 
+## O sistema em contexto
+
+| Área | Visão geral |
+| --- | --- |
+| **Acervo** | Cadastro, consulta e acompanhamento de livros disponíveis. |
+| **Pessoas e turmas** | Organização dos participantes e da estrutura escolar. |
+| **Circulação** | Empréstimos, devoluções, prorrogações e acompanhamento de pendências. |
+| **Relatórios** | Informações de apoio para a rotina da biblioteca. |
+| **Configuração** | Identidade institucional, primeiro acesso e preferências do sistema. |
+
 ## Experiência do sistema
 
 <table>
@@ -67,9 +79,15 @@ Participo do desenvolvimento e da evolução contínua do SUB em um trabalho col
       <sub>Configuração inicial</sub>
     </td>
   </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <img src="https://raw.githubusercontent.com/LouasDev/SistemaBiblioteca/main/docs/manual/img/50-configuracao.png" width="880" alt="Tela de configurações institucionais do SUB com dados-modelo" /><br />
+      <sub>Configurações institucionais</sub>
+    </td>
+  </tr>
 </table>
 
-<sub>Telas ilustrativas do manual público do SUB. As marcações laranjas fazem parte do roteiro de uso.</sub>
+<sub>Telas ilustrativas do manual público do SUB, sem dados operacionais. As marcações laranjas fazem parte do roteiro de uso.</sub>
 
 ## Contexto técnico
 
