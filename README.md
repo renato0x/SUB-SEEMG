@@ -14,24 +14,24 @@
 > [!IMPORTANT]
 > **Registro institucional**
 >
-> Este repositório possui caráter exclusivamente informacional e histórico. O SUB é propriedade do Estado de Minas Gerais, sob responsabilidade institucional da Secretaria de Estado de Educação de Minas Gerais (SEE/MG). O código-fonte, a documentação interna e os dados operacionais não são disponibilizados aqui.
+> Este repositório é informacional e histórico. O SUB integra uma iniciativa ligada à Secretaria de Estado de Educação de Minas Gerais (SEE/MG). Não disponibilizo aqui código-fonte, documentação interna ou dados operacionais.
 
 ## Registro de participação
 
-Participei do desenvolvimento do sistema que começou na Biblioteca Gastão Valle. Depois do reconhecimento e da divulgação do projeto pelo Governo de Minas Gerais, sigo contribuindo para a evolução do SUB em um trabalho colaborativo voltado à rede estadual de ensino.
+A minha trajetória no SUB começou com o sistema desenvolvido para a Biblioteca Gastão Valle. Depois do reconhecimento público do projeto original, continuo participando da sua evolução para a rede estadual de ensino.
 
 <table>
   <tr>
     <td width="64" align="center"><strong>01</strong></td>
-    <td><strong>Origem</strong><br />O sistema nasceu da rotina de uma biblioteca escolar.</td>
+    <td><strong>Origem</strong><br />Biblioteca Gastão Valle.</td>
   </tr>
   <tr>
     <td width="64" align="center"><strong>02</strong></td>
-    <td><strong>Reconhecimento</strong><br />O projeto original foi reconhecido e divulgado oficialmente.</td>
+    <td><strong>Reconhecimento</strong><br />Divulgação oficial do projeto original.</td>
   </tr>
   <tr>
     <td width="64" align="center"><strong>03</strong></td>
-    <td><strong>Continuidade</strong><br />Hoje, participo da sua evolução para a rede estadual.</td>
+    <td><strong>Continuidade</strong><br />Evolução colaborativa para a rede estadual.</td>
   </tr>
 </table>
 
@@ -40,27 +40,24 @@ Participei do desenvolvimento do sistema que começou na Biblioteca Gastão Vall
   <a href="https://github.com/LouasDev/SistemaBiblioteca/commits/main?author=renato0x">
     <img height="165" src="https://github-stats-extended.vercel.app/api?username=renato0x&repo=LouasDev%2FSistemaBiblioteca&show_icons=true&include_all_commits=true&count_private=false&hide_rank=true&hide=stars,prs,issues,contribs&bg_color=0D1117&title_color=F0F6FC&text_color=8B949E&icon_color=58A6FF&border_color=30363D&custom_title=Participa%C3%A7%C3%A3o+no+SUB" alt="Total de commits públicos de Renato no repositório do SUB" />
   </a>
-  <a href="https://github.com/LouasDev/SistemaBiblioteca">
-    <img height="165" src="https://github-stats-extended.vercel.app/api/pin?username=LouasDev&repo=SistemaBiblioteca&bg_color=0D1117&title_color=F0F6FC&text_color=8B949E&icon_color=58A6FF&border_color=30363D" alt="Repositório de desenvolvimento do SUB" />
-  </a>
 
   <br />
-  <sub>Dados públicos atualizados automaticamente: o primeiro card filtra meus commits no repositório de desenvolvimento; o segundo situa o projeto de origem.</sub>
+  <sub>Indicador dinâmico filtrado pelo repositório de desenvolvimento. Caso não carregue, consulte o <a href="https://github.com/LouasDev/SistemaBiblioteca/commits/main?author=renato0x">histórico de commits</a>.</sub>
 
 </div>
 
 ## O SUB
 
-O SUB é a refatoração do sistema de gestão desenvolvido para a Biblioteca Gastão Valle. A proposta reúne a rotina de uma biblioteca escolar em uma aplicação desktop: acervo, pessoas e turmas, circulação de livros, relatórios e configurações institucionais.
+O SUB é a refatoração de um sistema de gestão para bibliotecas escolares. Reúne, em uma aplicação desktop, acervo, pessoas e turmas, circulação de livros, relatórios e configurações institucionais.
 
 <table>
   <tr>
     <td width="50%" align="center">
-      <img src="https://raw.githubusercontent.com/LouasDev/SistemaBiblioteca/main/docs/manual/img/02-login.png" alt="Tela de acesso institucional do SUB" /><br />
+      <img src="https://raw.githubusercontent.com/LouasDev/SistemaBiblioteca/2423637ab01b4bbb654de0a8d5fc5fc814cf44f9/docs/manual/img/02-login.png" alt="Tela de acesso institucional do SUB" /><br />
       <sub>Acesso institucional</sub>
     </td>
     <td width="50%" align="center">
-      <img src="https://raw.githubusercontent.com/LouasDev/SistemaBiblioteca/main/docs/manual/img/01-primeiro-uso-etapa-1.png" alt="Assistente de primeiro uso do SUB" /><br />
+      <img src="https://raw.githubusercontent.com/LouasDev/SistemaBiblioteca/2423637ab01b4bbb654de0a8d5fc5fc814cf44f9/docs/manual/img/01-primeiro-uso-etapa-1.png" alt="Assistente de primeiro uso do SUB" /><br />
       <sub>Configuração inicial</sub>
     </td>
   </tr>
