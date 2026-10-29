@@ -54,6 +54,23 @@ Participo do desenvolvimento e da evolução contínua do SUB em um trabalho col
   </tr>
 </table>
 
+## Experiência do sistema
+
+<table>
+  <tr>
+    <td width="50%" align="center">
+      <img src="https://raw.githubusercontent.com/LouasDev/SistemaBiblioteca/main/docs/manual/img/02-login.png" alt="Tela de acesso institucional do SUB" /><br />
+      <sub>Acesso institucional</sub>
+    </td>
+    <td width="50%" align="center">
+      <img src="https://raw.githubusercontent.com/LouasDev/SistemaBiblioteca/main/docs/manual/img/01-primeiro-uso-etapa-1.png" alt="Assistente de primeiro uso do SUB" /><br />
+      <sub>Configuração inicial</sub>
+    </td>
+  </tr>
+</table>
+
+<sub>Telas ilustrativas do manual público do SUB. As marcações laranjas fazem parte do roteiro de uso.</sub>
+
 ## Contexto técnico
 
 <div align="center">
