@@ -1,19 +1,15 @@
 <div align="center">
 
-  <img src="./assets/sub-logo.png" width="180" alt="Logo do SUB" />
+  <img src="./assets/sub-logo.png" width="148" alt="Logo do SUB" />
 
   <h1>SUB</h1>
   <p><strong>Sistema Único Bibliotecário</strong></p>
-  <p>Sistema unificado de gestão de bibliotecas para a rede estadual de ensino de Minas Gerais.</p>
+  <p>Registro público da minha participação no desenvolvimento do sistema.</p>
 
   <img src="https://img.shields.io/badge/STATUS-EM_DESENVOLVIMENTO-245083?style=for-the-badge" alt="Status: em desenvolvimento" />
   <img src="https://img.shields.io/badge/INICIATIVA-SEE%2FMG-1f6f54?style=for-the-badge" alt="Iniciativa da SEE/MG" />
 
 </div>
-
-<p align="center">
-  <img src="./assets/participacao-renato.svg" width="980" alt="Card de participação de Renato Monteiro no desenvolvimento do SUB." />
-</p>
 
 ---
 
@@ -24,15 +20,41 @@
 >
 > O código-fonte, a documentação interna e os dados operacionais não são disponibilizados publicamente. Este repositório não representa o ambiente oficial de desenvolvimento do sistema.
 
-## Sobre o SUB
+## O SUB
 
 O SUB é a refatoração do sistema de gestão desenvolvido para a Biblioteca Gastão Valle. Após a apresentação do projeto original ao Governo de Minas Gerais, a equipe foi convidada a desenvolver uma nova versão para atender toda a rede estadual de ensino.
 
-## Participação
+## Minha participação
 
-Participo do desenvolvimento e da evolução contínua do SUB em um trabalho colaborativo. Este repositório registra essa trajetória de forma pública, preservando os limites institucionais do projeto.
+Participo do desenvolvimento e da evolução contínua do SUB em um trabalho colaborativo. Este repositório preserva essa trajetória de forma pública e objetiva, sem expor conteúdos internos do projeto.
 
-## Tecnologias
+## Registro
+
+<table>
+  <tr>
+    <td width="64" align="center"><strong>01</strong></td>
+    <td>
+      <strong>Origem</strong><br />
+      Participei do desenvolvimento do sistema que deu início a essa trajetória na Biblioteca Gastão Valle.
+    </td>
+  </tr>
+  <tr>
+    <td width="64" align="center"><strong>02</strong></td>
+    <td>
+      <strong>Reconhecimento</strong><br />
+      O projeto original foi reconhecido e divulgado pelo Governo de Minas Gerais.
+    </td>
+  </tr>
+  <tr>
+    <td width="64" align="center"><strong>03</strong></td>
+    <td>
+      <strong>Continuidade</strong><br />
+      Hoje participo da evolução do SUB para a rede estadual de ensino.
+    </td>
+  </tr>
+</table>
+
+## Contexto técnico
 
 <div align="center">
 
@@ -43,12 +65,14 @@ Participo do desenvolvimento e da evolução contínua do SUB em um trabalho col
 
 </div>
 
+O SUB é uma aplicação desktop desenvolvida em C# e .NET Framework, com Windows Forms e armazenamento local. As tecnologias acima descrevem o contexto do sistema, não uma atribuição individual de responsabilidades.
+
 ## Reconhecimento institucional
 
 <table>
   <tr>
-    <td align="center" width="180">
-      <img src="./assets/seemg.jpg" width="110" alt="Identidade visual da SEE/MG" />
+    <td align="center" width="152">
+      <img src="./assets/seemg.jpg" width="96" alt="Identidade visual da SEE/MG" />
     </td>
     <td>
       <strong>Secretaria de Estado de Educação de Minas Gerais</strong><br />
@@ -59,3 +83,7 @@ Participo do desenvolvimento e da evolução contínua do SUB em um trabalho col
     </td>
   </tr>
 </table>
+
+<div align="center">
+  <sub>Histórico de contribuições registrado desde 2025.</sub>
+</div>
