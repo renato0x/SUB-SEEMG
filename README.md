@@ -86,6 +86,3 @@ O SUB é a refatoração de um sistema de gestão para bibliotecas escolares. Re
   </tr>
 </table>
 
-<div align="center">
-  <sub>Histórico de contribuições registrado desde 2025.</sub>
-</div>
