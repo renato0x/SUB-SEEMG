@@ -56,6 +56,24 @@ Participo do desenvolvimento e da evolução contínua do SUB em um trabalho col
   </tr>
 </table>
 
+## Atividade pública
+
+<div align="center">
+
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=renato0x&show_icons=true&include_all_commits=true&count_private=false&hide_rank=true&bg_color=0D1117&title_color=F0F6FC&text_color=8B949E&icon_color=58A6FF&border_color=30363D&custom_title=Registro+de+atividade" alt="Resumo de atividade pública do perfil GitHub de Renato" />
+
+</div>
+
+<div align="center">
+  <sub>Uma leitura visual da minha atividade pública no GitHub. Os números situam minha trajetória de desenvolvimento e não representam autoria individual do SUB.</sub>
+</div>
+
+<div align="center">
+
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=renato0x&bg_color=0D1117&color=8B949E&line=58A6FF&point=F0F6FC&area=true&area_color=1F6FEB&hide_border=true&radius=6" alt="Gráfico de contribuições públicas no GitHub" />
+
+</div>
+
 ## O sistema em contexto
 
 | Área | Visão geral |
