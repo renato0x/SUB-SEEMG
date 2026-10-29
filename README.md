@@ -11,76 +11,47 @@
 
 </div>
 
----
-
 > [!IMPORTANT]
 > **Registro institucional**
 >
-> Este repositório possui caráter exclusivamente informacional e histórico. O SUB é um sistema de propriedade do Estado de Minas Gerais, sob responsabilidade institucional da Secretaria de Estado de Educação de Minas Gerais (SEE/MG).
->
-> O código-fonte, a documentação interna e os dados operacionais não são disponibilizados publicamente. Este repositório não representa o ambiente oficial de desenvolvimento do sistema.
+> Este repositório possui caráter exclusivamente informacional e histórico. O SUB é propriedade do Estado de Minas Gerais, sob responsabilidade institucional da Secretaria de Estado de Educação de Minas Gerais (SEE/MG). O código-fonte, a documentação interna e os dados operacionais não são disponibilizados aqui.
 
-## O SUB
+## Registro de participação
 
-O SUB é a refatoração do sistema de gestão desenvolvido para a Biblioteca Gastão Valle. Após a apresentação do projeto original ao Governo de Minas Gerais, a equipe foi convidada a desenvolver uma nova versão para atender toda a rede estadual de ensino.
-
-A proposta é reunir em uma única aplicação a rotina de uma biblioteca escolar: organização do acervo, pessoas e turmas, circulação de livros, relatórios e configurações institucionais.
-
-## Minha participação
-
-Participo do desenvolvimento e da evolução contínua do SUB em um trabalho colaborativo. Este repositório preserva essa trajetória de forma pública e objetiva, sem expor conteúdos internos do projeto.
-
-## Registro
+Participei do desenvolvimento do sistema que começou na Biblioteca Gastão Valle. Depois do reconhecimento e da divulgação do projeto pelo Governo de Minas Gerais, sigo contribuindo para a evolução do SUB em um trabalho colaborativo voltado à rede estadual de ensino.
 
 <table>
   <tr>
     <td width="64" align="center"><strong>01</strong></td>
-    <td>
-      <strong>Origem</strong><br />
-      Participei do desenvolvimento do sistema que deu início a essa trajetória na Biblioteca Gastão Valle.
-    </td>
+    <td><strong>Origem</strong><br />O sistema nasceu da rotina de uma biblioteca escolar.</td>
   </tr>
   <tr>
     <td width="64" align="center"><strong>02</strong></td>
-    <td>
-      <strong>Reconhecimento</strong><br />
-      O projeto original foi reconhecido e divulgado pelo Governo de Minas Gerais.
-    </td>
+    <td><strong>Reconhecimento</strong><br />O projeto original foi reconhecido e divulgado oficialmente.</td>
   </tr>
   <tr>
     <td width="64" align="center"><strong>03</strong></td>
-    <td>
-      <strong>Continuidade</strong><br />
-      Hoje participo da evolução do SUB para a rede estadual de ensino.
-    </td>
+    <td><strong>Continuidade</strong><br />Hoje, participo da sua evolução para a rede estadual.</td>
   </tr>
 </table>
-
-## Minha atividade no SUB
 
 <div align="center">
 
   <a href="https://github.com/LouasDev/SistemaBiblioteca/commits/main?author=renato0x">
     <img height="165" src="https://github-stats-extended.vercel.app/api?username=renato0x&repo=LouasDev%2FSistemaBiblioteca&show_icons=true&include_all_commits=true&count_private=false&hide_rank=true&hide=stars,prs,issues,contribs&bg_color=0D1117&title_color=F0F6FC&text_color=8B949E&icon_color=58A6FF&border_color=30363D&custom_title=Participa%C3%A7%C3%A3o+no+SUB" alt="Total de commits públicos de Renato no repositório do SUB" />
   </a>
+  <a href="https://github.com/LouasDev/SistemaBiblioteca">
+    <img height="165" src="https://github-stats-extended.vercel.app/api/pin?username=LouasDev&repo=SistemaBiblioteca&bg_color=0D1117&title_color=F0F6FC&text_color=8B949E&icon_color=58A6FF&border_color=30363D" alt="Repositório de desenvolvimento do SUB" />
+  </a>
+
+  <br />
+  <sub>Dados públicos atualizados automaticamente: o primeiro card filtra meus commits no repositório de desenvolvimento; o segundo situa o projeto de origem.</sub>
 
 </div>
 
-<div align="center">
-  <sub>O card é filtrado pelo repositório de desenvolvimento do SUB e atualizado automaticamente.</sub>
-</div>
+## O SUB
 
-## O sistema em contexto
-
-| Área | Visão geral |
-| --- | --- |
-| **Acervo** | Cadastro, consulta e acompanhamento de livros disponíveis. |
-| **Pessoas e turmas** | Organização dos participantes e da estrutura escolar. |
-| **Circulação** | Empréstimos, devoluções, prorrogações e acompanhamento de pendências. |
-| **Relatórios** | Informações de apoio para a rotina da biblioteca. |
-| **Configuração** | Identidade institucional, primeiro acesso e preferências do sistema. |
-
-## Experiência do sistema
+O SUB é a refatoração do sistema de gestão desenvolvido para a Biblioteca Gastão Valle. A proposta reúne a rotina de uma biblioteca escolar em uma aplicação desktop: acervo, pessoas e turmas, circulação de livros, relatórios e configurações institucionais.
 
 <table>
   <tr>
@@ -93,12 +64,7 @@ Participo do desenvolvimento e da evolução contínua do SUB em um trabalho col
       <sub>Configuração inicial</sub>
     </td>
   </tr>
- 
 </table>
-
-<sub>Telas ilustrativas do manual público do SUB</sub>
-
-## Contexto técnico
 
 <div align="center">
 
@@ -107,11 +73,9 @@ Participo do desenvolvimento e da evolução contínua do SUB em um trabalho col
 ![Windows Forms](https://img.shields.io/badge/Windows_Forms-0078D4?style=flat-square&logo=windows&logoColor=white)
 ![SQL Server Compact](https://img.shields.io/badge/SQL_Server_Compact-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
 
+<sub>Aplicação desktop em C# e .NET Framework, com Windows Forms e armazenamento local.</sub>
+
 </div>
-
-O SUB é uma aplicação desktop desenvolvida em C# e .NET Framework, com Windows Forms e armazenamento local. As tecnologias acima descrevem o contexto do sistema, não uma atribuição individual de responsabilidades.
-
-## Reconhecimento institucional
 
 <table>
   <tr>
@@ -123,7 +87,7 @@ O SUB é uma aplicação desktop desenvolvida em C# e .NET Framework, com Window
       O sistema original foi reconhecido e divulgado oficialmente pelo Governo de Minas Gerais.<br /><br />
       <a href="https://www.agenciaminas.mg.gov.br/noticia/estudantes-de-escola-estadual-desenvolvem-sistema-para-modernizar-biblioteca"><strong>Matéria oficial ↗</strong></a>
       &nbsp;·&nbsp;
-      <a href="https://www.gastaovalle.com/pages/equipe-dev.html">Equipe do projeto</a>
+      <a href="https://www.gastaovalle.com/pages/equipe-dev.html">Histórico do projeto</a>
     </td>
   </tr>
 </table>
